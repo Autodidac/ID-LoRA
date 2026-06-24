@@ -11,6 +11,12 @@
 
 ---
 
+### 🎉 ID-LoRA has been accepted to ECCV 2026!
+
+We are excited to announce that **ID-LoRA** has been accepted to **ECCV 2026**! 🥳
+
+---
+
 ### 🆕  Latest Release: ID-LoRA with LTX-2.3 and ComfyUI custom node🎉
 
 We now support **LTX-2.3** (22B parameters), the latest LTX video model. ID-LoRA 2.3 brings **improved text conditioning**, **better audio quality**, and a new **Two-Stage HQ** inference mode for higher fidelity output. Pre-trained checkpoints for CelebV-HQ and TalkVid are available on [HuggingFace](https://huggingface.co/AviadDahan). See [ID-LoRA-2.3/README.md](ID-LoRA-2.3/README.md) for setup and usage.
